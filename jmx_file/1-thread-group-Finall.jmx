@@ -103,7 +103,7 @@
         <CSVDataSet guiclass="TestBeanGUI" testclass="CSVDataSet" testname="DemoGuru99_Add_New_Customer" enabled="true">
           <stringProp name="delimiter">,</stringProp>
           <stringProp name="fileEncoding">UTF-8</stringProp>
-          <stringProp name="filename">C:/Users/Sibasrita.s/Downloads/WORK/J/Jmeter_All_Scripts_Merge_Final/Test_Data/DemoGuru99_Add_New_Customer/DemoGuru99_Add_New_Customer.csv</stringProp>
+          <stringProp name="filename">DemoGuru99_Add_New_Customer.csv</stringProp>
           <boolProp name="ignoreFirstLine">true</boolProp>
           <boolProp name="quotedData">false</boolProp>
           <boolProp name="recycle">true</boolProp>
